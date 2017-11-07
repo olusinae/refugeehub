@@ -6,11 +6,11 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>About</title>
-  <meta name="description" content="This is an online portfolio for my Software Engineering project.">
+  <title>Portfolio with Jekyll</title>
+  <meta name="description" content="In class today, Elise gave a brief presentation (a recap) on tasks that are required to be done, both as a group and individual.">
 
   <link rel="stylesheet" href="/refugeehub/assets/main.css">
-  <link rel="canonical" href="http://localhost:4000/refugeehub/about/">
+  <link rel="canonical" href="http://localhost:4000/refugeehub/2017/11/07/portfolio-with-jekyll.html">
   <link rel="alternate" type="application/rss+xml" title="Refugee Hub Portfolio" href="/refugeehub/feed.xml">
   
   
@@ -42,11 +42,6 @@
         <div class="trigger">
           
             
-            
-          
-            
-            
-            <a class="page-link" href="/refugeehub/about/">About</a>
             
           
             
@@ -87,27 +82,43 @@
 
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
-        <article class="post">
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-    <h1 class="post-title">About</h1>
+    <h1 class="post-title" itemprop="name headline">Portfolio with Jekyll</h1>
+    <p class="post-meta">
+      <time datetime="2017-11-07T00:00:00+13:00" itemprop="datePublished">
+        
+        Nov 7, 2017
+      </time>
+      </p>
   </header>
 
-  <div class="post-content">
-    <p><code class="highlighter-rouge">This is the base Jekyll theme.</code> 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at <a href="https://jekyllrb.com/">jekyllrb.com</a></p>
+  <div class="post-content" itemprop="articleBody">
+    <p>In class today, Elise gave a brief presentation (a recap) on tasks that are required to be done, both as a group and individual.</p>
 
-<p>You can find the source code for Minima at GitHub:
-<a href="https://github.com/jekyll">jekyll</a> /
-<a href="https://github.com/jekyll/minima">minima</a></p>
+<p>Most of this was about the portfolio for the projects that has been carried out all through the semester. She also emphasised on the need
+to focus on having a final deliverable ready for submission.</p>
 
-<p>You can find the source code for Jekyll at GitHub:
-<a href="https://github.com/jekyll">jekyll</a> /
-<a href="https://github.com/jekyll/jekyll">jekyll</a></p>
+<p>I sought for her help with the portfolio, after spending the previous night on getting my online portfolio jekyll site to function properly
+without any success.
+All attempts to get the site hosted and github pages with a custom theme was to no avail.</p>
 
+<p>After several trials of suggestions from Elise, it appeared that the problem came from the <code class="highlighter-rouge">_config.yml</code> file.
+In the <code class="highlighter-rouge">_config.yml</code>, the <code class="highlighter-rouge">baseurl</code> variable was set to null, which means that the <code class="highlighter-rouge">/asset/main.css</code> file had no location to point to on the site build.</p>
+
+<p>So, realising that, I changed the values of the baseurl to <code class="highlighter-rouge">baseurl: "/refugeehub"</code>. The <code class="highlighter-rouge">refugeehub</code> is the repo name for the portfolio on Github.</p>
+
+<p>After doing this, my portfolio was live and presented properly!…(Thanks to Elise!).</p>
+
+<p>Despite the fact that the site has the default theme - <code class="highlighter-rouge">Minima</code> rather than a customised, I was still satisfied. 
+This is because more time and effort would be needed to override the default theme, which neither do I have before the semester ends.</p>
+
+<p>However, I planned on researching on how to go about that over the holidays.</p>
 
   </div>
 
+  
 </article>
 
       </div>
