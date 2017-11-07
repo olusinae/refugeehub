@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Curriculum Vitae
+title: CV
 ---
 <object type="application/pdf" data="CV.pdf" width="100%" height="800px"></object>
 
