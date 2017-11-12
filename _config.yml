@@ -13,6 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
+
 title: Refugee Hub Portfolio
 email: olusoe1@student.op.ac.nz
 description: >- # this means to ignore newlines until "baseurl:"
@@ -20,6 +22,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/refugeehub" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  olusinae
+author: Olufemi
+
 
 # Build settings
 markdown: kramdown
