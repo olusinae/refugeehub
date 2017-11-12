@@ -10,7 +10,9 @@ This started out a bit scary, considering that it would be my first time working
 
 ## Team storming and norming
 This was a part that I dreaded a lot. Even though I expected that because everyone in the group were familiar with one another (to a certain extent I suppose), there would be less effort with the group norming.
-However, this turned out to be one of the most challenging part at the initial stage.  It was always impossible to have all the team members at once in a meeting. Our client – Elise, posted a message regarding this on slack. ![Elise's post](/assets/img/Elise-team-storming-and-norming.png){:class="img-responsive"}.
+However, this turned out to be one of the most challenging part at the initial stage.  It was always impossible to have all the team members at once in a meeting. Our client – Elise, had to post a message regarding this on slack.
+![Elise's post](/assets/img/Elise-team-storming-and-norming.png){:class="img-responsive"}.
+
 This affected our progress with the project as it was hard making plans without the consent of the other group members.
 
 Meanwhile, to ensure progress, I suggested that the three out of five of us who were present at meetings should put some general ideas regarding the project together. These ideas would then be pitched to the other members (whenever they are around) to know what they think.
