@@ -62,11 +62,11 @@ Here are some examples of my documentation during a meeting:
 
 Also, I do take notes at the meetings (most of the time or as required). Either in writing or audio recording.
 
-Here's an example of notes taken during some of the meetings:
+Here's an example of notes taken at a meeting:
 
 ![Meeting note](/assets/img/week 2-plan.jpg){:class="img-responsive"}
 
-And here are some of the recorded audio at a meeting:
+And here are some of the recorded audio during some of the meetings:
 
 [Meeting with client recording](/assets/audio/Meeting-with-client.mp3)
 
