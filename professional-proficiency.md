@@ -68,9 +68,9 @@ Here's an example of notes taken during a meeting:
 
 And here are some of the recorded audio at a meeting:
 
-[Meeting-with-client](/assets/audio/Meeting-with-client.mp3)
+[Meeting with client recording](/assets/audio/Meeting-with-client.mp3)
 
-!audio[RefHub-Client-Briefing](/assets/audio/RefHub-Client-Briefing.mp3){ ize=10 duration=10 cycle=forever}
+[RefHub client briefing recording](/assets/audio/RefHub-Client-Briefing.mp3)
 
 
 
