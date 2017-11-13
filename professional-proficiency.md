@@ -68,10 +68,10 @@ Here's an example of notes taken during a meeting:
 
 And here are some of the recorded audio at a meeting:
 
-![Meeting-with-client](/assets/audio/Meeting-with-client.mp3){:class="img-responsive"}
+[Meeting-with-client](/assets/audio/Meeting-with-client.mp3)
 
 
-![RefHub-Client-Briefing](/assets/audio/RefHub-Client-Briefing.mp3){:class="img-responsive"}
+![RefHub-Client-Briefing](/assets/audio/RefHub-Client-Briefing.mp3)
 
 
 
