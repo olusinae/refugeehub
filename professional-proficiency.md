@@ -70,8 +70,8 @@ And here are some of the recorded audio at a meeting:
 
 [Meeting-with-client](/assets/audio/Meeting-with-client.mp3)
 
+!audio[ RefHub-Client-Briefing ](/assets/audio/RefHub-Client-Briefing.mp3){ size=10 duration=10 cycle=forever }
 
-![RefHub-Client-Briefing](/assets/audio/RefHub-Client-Briefing.mp3)
 
 
 
