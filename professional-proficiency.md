@@ -56,9 +56,9 @@ Very well I think. I do keep records of activities during meetings (both visual 
 
 Here are some examples of my documentation during a meeting:
 
-![Wireframe](/assets/img/wireframe1.png){:class="img-responsive"}
+![Wireframe](/assets/img/wireframe1.jpg){:class="img-responsive"}
 
-![Wireframe](/assets/img/wireframe2.png){:class="img-responsive"}
+![Wireframe](/assets/img/wireframe2.jpg){:class="img-responsive"}
 
 Also, I do take notes at the meetings (most of the time or as required). Either in writing or audio recording.
 
