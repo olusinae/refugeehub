@@ -114,7 +114,7 @@ Everyone in the team is familiar with GitLab, as this is widely used in most (if
 Although each person has a folder on the group’s Kate server account, I think using Git for file management and control is more recommendable. This is because if Kate server goes offline, that means there is a high probability of file loss.
 
 ## Portfolio
-I always ensure that I document activities for each day I do some work on the project in a **<a href="index.md">timeline</a>**.
+I always ensure that I document activities for each day I do some work on the project in a **[timeline](/index.md)**.
 
 It was recommended to use an online portfolio, to present individual reports at the end of the project. 
 In hindsight, I envisaged this scenario. So, I got a copy of the template I used to create an online portfolio based on Bootstrap framework for my **[Spinner project]( https://olusinae.github.io/spinner/index.html)** (initial project at the beginning of course).
