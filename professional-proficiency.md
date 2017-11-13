@@ -64,7 +64,7 @@ Also, I do take notes at the meetings (most of the time or as required). Either 
 
 Here's an example of notes taken during a meeting:
 
-![Wireframe](/assets/img/week2-plan.jpg){:class="img-responsive"}
+![Meeting note](/assets/img/week 2-plan.jpg){:class="img-responsive"}
 
 And here are some of the recorded audio at a meeting:
 
