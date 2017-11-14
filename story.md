@@ -6,6 +6,7 @@ permalink: /story/
 
 ## Introduction
 ----------------------------------------------------------------------------------------------------
+
 In Software Engineering, I was put in a group of five persons to develop a tool to assist refugees with their settlement in Dunedin.
 
 This started out a bit scary, considering that it would be my first time working in a group (that is as large as that) to author a tool. 
@@ -13,6 +14,7 @@ The platform to be used and methodology (such as Agile) to implement was totally
 
 ## Team storming and norming
 ----------------------------------------------------------------------------------------------------
+
 This was a part that I dreaded a lot. Even though I expected that because everyone in the group were familiar with one another (to a certain extent I suppose), there would be less effort with the group norming.
 
 However, this turned out to be one of the most challenging part at the initial stage.  It was always impossible to have all the team members at once in a meeting. 
@@ -32,6 +34,7 @@ Everyone showed up to the meetings most of the time and we would have a scrum, e
 
 ## Team-WORK
 ----------------------------------------------------------------------------------------------------
+
 This was another great challenge for me. Of course, I would have preferred to develop the tool on my own, but I suppose there would be no lesson to learn in being able to work in group.
 
 Most of the group members have a good deal of knowledge with the platforms (HTML, CSS, JS, and PHP) we planned on using, however it was three of us who did most of the work.
@@ -56,6 +59,7 @@ Getting through with merging of codes and being flexible with these changes has 
 
 ## Management
 ----------------------------------------------------------------------------------------------------
+
 This was a role I naturally found myself in, alongside Aaron. As there was no one who would offer or make the move to organise and lead scrums (other than Aaron), I always have the impulse to lead.
 
 
@@ -73,6 +77,7 @@ Despite the challenges, I was able to find a balance between managing the team e
 
 ## Communication
 ----------------------------------------------------------------------------------------------------
+
 I am confident and proud of my communication with the team, throughout the whole process of developing the web app. To keep myself posted and as well as the team, I always ensure that I relay messages on the different chat media that we use.
 
 
@@ -88,6 +93,7 @@ In addition, after Nick and myself met with Rob – the department’s technicia
 
 ## Development
 ----------------------------------------------------------------------------------------------------
+
 The development of this application has been an interesting process. From working with predefined CSS libraries to JavaScript and PHP for functionalities, every part of the process has proved to be useful even in other courses. 
 
 Through helping Cade with embedding google maps on the `Refugee Hub Information Page` and adding markers on them, I was able to learn a lot. I now understand better how to add google maps and translate to website and style the `frame` to fit into context on one’s website.
@@ -103,6 +109,7 @@ I believe the efficient development of this tool has been hampered by the indiff
 
 ## Testing
 ----------------------------------------------------------------------------------------------------
+
 Testing was a part I looked forward to, as this is one of the core parts of software development. 
 I was selected by the Software Testing course as the main contact from my group. 
 
@@ -112,6 +119,7 @@ I believe this not been done well. This is because our project does not seem sta
 
 ## Version Control: Git
 ----------------------------------------------------------------------------------------------------
+
 In every software development environment, one would expected (in this era at least), that the most important tool would be a version control system. This, I wish was true for my team.
 
 Everyone in the team is familiar with GitLab, as this is widely used in most (if not all) the courses in the department. In spite of this, it was only three of us who made use of it the most.
@@ -120,6 +128,7 @@ Although each person has a folder on the group’s Kate server account, I think 
 
 ## Portfolio
 ----------------------------------------------------------------------------------------------------
+
 I always ensure that I document activities for each day I do some work on the project in a **[timeline](/index.md)**.
 
 It was recommended to use an online portfolio, to present individual reports at the end of the project. 
@@ -136,6 +145,7 @@ Although, this seemed like a great tool, it comes with certain costs. Setting up
 
 ## Jekyll
 ----------------------------------------------------------------------------------------------------
+
 I did not have any idea or understanding of what Jekyll was, how it could be used and what it is used for. I only knew that it can be used to create static sites from text documents as input.
 
 I tried learning about it from the **[Jekyll documentation](https://jekyllrb.com/docs/windows)** website on how to install Jekyll on Windows 10. This tutorial, however, didn't provide me with much information that I felt I needed.
@@ -164,6 +174,7 @@ Here's a screenshot of my portfolio after getting it to serve properly:
 
 ## Conclusion
 ----------------------------------------------------------------------------------------------------
+
 This project has provided me with a great experience and knowledge. Despite the problems with group norming at the initial stage, I believe that to some extent we have been able to achieve so much. 
 
 Furthermore, I think that the skills, such as being flexible in different situations and managing a team, that I have accumulated would be useful to other aspects of my career and in the future.
