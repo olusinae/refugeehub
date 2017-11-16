@@ -7,13 +7,13 @@ title: Professional proficiency
 
 # ★ ★ ★ ★ ★
 
-My team has scheduled meetings every Monday outside of usual class times on Tuesday and Thursday, and I am always in attendance. 
+My team has scheduled meetings every Monday outside of usual class times on Tuesday and Thursday, and I have a good attendance record. 
 This is with the exception of days that I am sick, for which I take permission to be excused.
 
 ![Excusing myself from meeting](/assets/img/absence-excuse.png)
  
 
-The only reason that I might not have made it to the group meeting during usual class times, would be if  I have to 
+Another reason why I might not have made it to the group meeting during usual class times, would be if  I have to 
 attend the class for my actual Linux stream for test or SBA.
 
 Here is a picture of notes that I took from one of our group meetings:
