@@ -8,4 +8,4 @@ However, based on the reports and feedback from the meeting, a draft for present
 
 The draft has milestones that has been achieved and the ones that needs to be reached.
 
-Click [here](/assets/presentation-draft.pdf) to view the draft.
+Click [here](/refugeehub/assets/presentation-draft.pdf) to view the draft.
