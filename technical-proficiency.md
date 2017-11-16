@@ -54,7 +54,7 @@ to a new local machine and `pull` to an existing one.
 
 Here is snapshot of my commits on Git;
 
-![Commits](/assets/img/commits.png){:class="img-responsive"}
+![Commits](/assets/img/commits.png)
 
 
 

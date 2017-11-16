@@ -5,11 +5,9 @@ title: Portfolio with Jekyll
 
 In class today, Elise gave a brief presentation (a recap) on tasks that are required to be done, both as a group and individual.
 
-Most of this was about the portfolio for the projects that has been carried out all through the semester. She also emphasised on the need
-to focus on having a final deliverable ready for submission.
+Most of this was about the portfolio for the projects that has been carried out all through the semester. She also emphasised on the need to focus on having a final deliverable ready for submission.
 
-I sought for her help with the portfolio, after spending the previous night on getting my online portfolio jekyll site to function properly
-without any success.
+I sought for her help with the portfolio, after spending the previous night on getting my online portfolio jekyll site to function properly without any success.
 All attempts to get the site hosted and github pages with a custom theme was to no avail.
 
 After several trials of suggestions from Elise, it appeared that the problem came from the `_config.yml` file.

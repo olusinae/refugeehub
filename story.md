@@ -22,7 +22,7 @@ This was a part that I dreaded a lot. Even though I expected that because everyo
 
 However, this turned out to be one of the most challenging part at the initial stage.  It was always impossible to have all the team members at once in a meeting. 
 Our client – Elise,had to post a message regarding this on slack. 
-![Elise's post](/assets/img/Elise-team-storming-and-norming.png){:class="img-responsive"}
+![Elise's post](/assets/img/Elise-team-storming-and-norming.png)
 
 This affected our progress with the project as it was hard making plans without the consent of the other group members.
 
@@ -48,14 +48,14 @@ Most of the group members have a good deal of knowledge with the platforms (HTML
 Initially, we met to decide on the platform to use (either WordPress or Bootstrap) for building the project. This didn’t quiet go well as a team member suggested using WordPress, while everyone else (who are savvy in web development, as a team member has very little knowledge) said they were more familiar with Bootstrap. It was then decided unanimously, to use Bootstrap.
 
 
-We all agreed for everyone to carry out some research regarding a suitable template to implement, over the weekend of the first week. The outcomes were to be uploaded on the project’s **[Git Repo]( https://gitlab.op-bit.nz/MAHAA4/RefugeeHub/tree/master)** . 
-It turned out that it was only Aaron, Ninh and I that did some research. I came up with **[this]( https://gitlab.op-bit.nz/MAHAA4/RefugeeHub/tree/master/SelectedRefugeeHubMock/web)** template.
+We all agreed for everyone to carry out some research regarding a suitable template to implement, over the weekend of the first week. The outcomes were to be uploaded on the project’s **[Git Repo](https://gitlab.op-bit.nz/MAHAA4/RefugeeHub/tree/master)** . 
+It turned out that it was only Aaron, Ninh and I that did some research. I came up with **[this](https://gitlab.op-bit.nz/MAHAA4/RefugeeHub/tree/master/SelectedRefugeeHubMock/web)** template.
 
 
-We selected a template suggested by Aaron to build on. The only problem with **[this template]( https://gitlab.op-bit.nz/MAHAA4/RefugeeHub/blob/master/template.html)**  is that, it is a single file containing all the codes for structure, styling and functionality. 
+We selected a template suggested by Aaron to build on. The only problem with **[this template](https://gitlab.op-bit.nz/MAHAA4/RefugeeHub/blob/master/template.html)**  is that, it is a single file containing all the codes for structure, styling and functionality. 
 
 So, with the consent of other team members, I went ahead and tidied the file up. I put the CSS styling and JavaScript codes into separate files and linked them to the HTML file. 
-Then I created a **[folder]( https://gitlab.op-bit.nz/MAHAA4/RefugeeHub/tree/webpage-development/RefugeeHubFiles)** on Git for the files. These files are then used as default files that everyone else build upon.
+Then I created a **[folder](https://gitlab.op-bit.nz/MAHAA4/RefugeeHub/tree/webpage-development/RefugeeHubFiles)** on Git for the files. These files are then used as default files that everyone else build upon.
 
 Afterwards, Aaron modified the files, changing the HTML files to PHP for everyone to use instead. This initially troubled me as I never saw the need for that. However, he gave reasonable reason for doing so, which was for security and more functionalities.
 
@@ -77,7 +77,7 @@ It was somehow tedious initially, being in this position. This is because while 
 
 As part of managing the team, rather than having Aaron or myself do some communication with the team, I asked Ninh to post a meeting’s feedback on Slack for the team.
 
-![Ninh's post](/assets/img/management.png){:class="img-responsive"}
+![Ninh's post](/assets/img/management.png)
 
 
 Despite the challenges, I was able to find a balance between managing the team effectively and without aggravating anyone. 
@@ -92,13 +92,16 @@ I am confident and proud of my communication with the team, throughout the whole
 
 Even if it’s about being excused from a meeting for being sick, I feel it’s imperative to inform everyone rather than not showing up. This I believe, does not show integrity. 
 
-![Excusing myself from meeting](/assets/img/absence-excuse.png){:class="img-responsive"}
+![Excusing myself from meeting](/assets/img/absence-excuse.png)
 
 In addition, after Nick and myself met with Rob – the department’s technician, regarding setting up a Database account on Kate (department’s server) for our group project, I posted the conversation on Slack for the team to see.
 
-![Chat with Rob](/assets/img/Rob.png){:class="img-responsive"}
+![Chat with Rob](/assets/img/Rob.png)
 
-![Feedback from Rob](/assets/img/Rob2.png){:class="img-responsive"}
+
+
+
+![Feedback from Rob](/assets/img/Rob2.png)
 
 
 
@@ -142,6 +145,8 @@ In every software development environment, one would expected (in this era at le
 
 Everyone in the team is familiar with GitLab, as this is widely used in most (if not all) the courses in the department. In spite of this, it was only three of us who made use of it the most.
 
+![Git activity](/assets/img/Git.png)
+
 Although each person has a folder on the group’s Kate server account, I think using Git for file management and control is more recommendable. This is because if Kate server goes offline, that means there is a high probability of file loss.
 
 
@@ -153,7 +158,7 @@ Although each person has a folder on the group’s Kate server account, I think 
 I always ensure that I document activities for each day I do some work on the project in a **[timeline](/index.md)**.
 
 It was recommended to use an online portfolio, to present individual reports at the end of the project. 
-In hindsight, I envisaged this scenario. So, I got a copy of the template I used to create an online portfolio based on Bootstrap framework for my **[Spinner project]( https://olusinae.github.io/spinner/index.html)** (initial project at the beginning of course).
+In hindsight, I envisaged this scenario. So, I got a copy of the template I used to create an online portfolio based on Bootstrap framework for my **[Spinner project](https://olusinae.github.io/spinner/index.html)** (initial project at the beginning of course).
 
 However, Adon and Elise suggested (and encouraged) learning frameworks such as `Jekyll` for online portfolios. 
 

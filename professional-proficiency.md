@@ -10,7 +10,7 @@ title: Professional proficiency
 My team has scheduled meetings every Monday outside of usual class times on Tuesday and Thursday, and I am always in attendance. 
 This is with the exception of days that I am sick, for which I take permission to be excused.
 
-![Excusing myself from meeting](/assets/img/absence-excuse.png){:class="img-responsive"}
+![Excusing myself from meeting](/assets/img/absence-excuse.png)
  
 
 The only reason that I might not have made it to the group meeting during usual class times, would be if  I have to 
@@ -18,7 +18,7 @@ attend the class for my actual Linux stream for test or SBA.
 
 Here is a picture of notes that I took from one of our group meetings:
 
-![Group Meeting Notes](/assets/img/week1-plan.jpg){:class="img-responsive"}
+![Group Meeting Notes](/assets/img/week1-plan.jpg)
 
 --------------------------------------------------------------------------------------
 
@@ -35,13 +35,16 @@ group chat or direct messages on Slack or Facebook messenger.
 Here are some examples of my communication with my team members:
 
 
-![Chat on Slack](/assets/img/communication.png){:class="img-responsive"}
+![Chat on Slack](/assets/img/communication.png)
 
 
-![Chat on Slack](/assets/img/communication2.png){:class="img-responsive"}
+
+![Chat on Slack](/assets/img/communication2.png)
 
 
-![Comment on Trello](/assets/img/communication3.png){:class="img-responsive"}
+
+![Comment on Trello](/assets/img/communication3.png)
+
 
 
 --------------------------------------------------------------------------------------
@@ -56,15 +59,18 @@ Very well I think. I do keep records of activities during meetings (both visual 
 
 Here are some examples of my documentation during a meeting:
 
-![Wireframe](/assets/img/wireframe1.jpg){:class="img-responsive"}
+![Wireframe](/assets/img/wireframe1.jpg)
 
-![Wireframe](/assets/img/wireframe2.jpg){:class="img-responsive"}
+
+
+
+![Wireframe](/assets/img/wireframe2.jpg)
 
 Also, I do take notes at the meetings (most of the time or as required). Either in writing or audio recording.
 
 Here's an example of notes taken at a meeting:
 
-![Meeting note](/assets/img/week 2-plan.jpg){:class="img-responsive"}
+![Meeting note](/assets/img/week2-plan.jpg)
 
 And here are some of the recorded audio during some of the meetings:
 
