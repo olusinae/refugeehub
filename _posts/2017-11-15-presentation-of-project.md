@@ -11,7 +11,7 @@ I really acknowledge Aaron's effort in organising everyone and working on mergin
 
 Here is an snapshot of the final version of Refugee Information Page after fixing:
 
-![Refugee Information Page](/assets/img/presentation-refugee.png)
+![Refugee Information Page](/refugeehub/assets/img/presentation-refugee.png)
 
 Nick did a really good job with implementing the live chat and forum feature on the website. It was thought by everyone initially, that it
 might not be possible eventually.
@@ -19,6 +19,6 @@ However, we were able to present the feature to the class "proudly". This gave e
 
 Here's a screenshot of the chat forum page:
 
-![Chat Forum Page](/assets/img/presentation-chat.png).
+![Chat Forum Page](/refugeehub/assets/img/presentation-chat.png).
 
 Although, we are still yet to finish the project, I think its been such a great experience and I hope that we would be able to have it fully done by Friday.
